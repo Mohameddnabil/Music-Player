@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>26035.png</file>
+        <file>37499.png</file>
+        <file>56691.png</file>
+        <file>fastforward-512.png</file>
+        <file>pause-button-png-pause-button-comments-980.png</file>
+        <file>housing.png</file>
+    </qresource>
+</RCC>
